@@ -1,4 +1,4 @@
-Modify the dictionary variable called payload like you are loging in to ICE@XJTLU.
+Modify the dictionary variable called payload like you are logging in to ICE@XJTLU.
 
 The script will try to download all coursework you have uploaded to ICE@XJTLU(2017/18) which is an archive site now.
 
